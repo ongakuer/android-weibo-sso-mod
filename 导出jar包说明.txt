@@ -1,0 +1,6 @@
+导出jar包说明
+ 
+导出勾选列表
+	src都勾选，单独排除com.weibo.sdk.android.demo和com.weibo.sdk.android的WeiboDialog。
+	gen下com.sina.sso的RemoteSSO.java
+	src-sso都勾选。
